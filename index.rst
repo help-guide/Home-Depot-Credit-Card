@@ -8,7 +8,7 @@ Visit `Homedepot.com/mycard <https://www.homedepot.com/mycard>`_ to access your 
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: homedepot-card.png
+.. image:: Button.png
    :alt: Homedepot.com/mycard
    :target: https://fm.ci/?aHR0cHM6Ly9ob21lZGVvcHRjYXJkaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
