@@ -37,9 +37,9 @@ Managing your Home Depot Credit Card is simple through the official portal Homed
 
 Follow these simple steps to access your account:
 
-✅ **Step 1:** Go to `https://www.homedepot.com/mycard`  
-✅ **Step 2:** Enter your **User ID** and **Password**  
-✅ **Step 3:** Click on **“Sign On”** to access your account dashboard
+**Step 1:** Go to `https://www.homedepot.com/mycard`  
+**Step 2:** Enter your **User ID** and **Password**  
+**Step 3:** Click on **“Sign On”** to access your account dashboard
 
 3. Features Available Through the Portal
 -----------------------------------------
@@ -57,11 +57,14 @@ Once logged in, you can:
 
 Using your Home Depot Credit Card gives you several exclusive advantages:
 
-🛠 **6 Months Financing** on purchases of $299 or more  
-💰 **Exclusive cardholder offers** and discounts  
-🔄 **Extended return policy** on eligible purchases  
-📈 **Credit-building support** with regular on-time payments  
-📱 **Mobile access** through the Citi Mobile App or mobile browser  
+* **6 Months Financing** on purchases of $299 or more  
+
+* **Exclusive cardholder offers** and discounts  
+
+* **Extended return policy** on eligible purchases  
+* **Credit-building support** with regular on-time payments
+
+* **Mobile access** through the Citi Mobile App or mobile browser  
 
 5. Mobile Access for Convenience
 ----------------------------------
