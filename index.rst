@@ -10,7 +10,7 @@ Visit `Homedepot.com/mycard <https://www.homedepot.com/mycard>`_ to access your 
 
 .. image:: Button.png
    :alt: Homedepot.com/mycard
-   :target: https://fm.ci/?aHR0cHM6Ly9ob21lZGVvcHRjYXJkaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://sites.google.com/view/homedepotcommycard
 
 .. raw:: html
 
